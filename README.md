@@ -1,2 +1,2 @@
-# Users-Sushil-Downloads-OpenGL
+# Users-Downloads-OpenGL
 my opengl setup for vscode
